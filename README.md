@@ -3,7 +3,7 @@ A desktop productivity tool designed to help users manage tasks, reminders, note
 
 ---
 
-## 📌 Overview
+## Overview
 The ADHD Assistant is a lightweight, local-first productivity app built with Python and Tkinter. It provides:
 
 - Task management (title, date, notes, priority, completion)
@@ -18,7 +18,7 @@ The app is designed to be simple, fast, and distraction‑free.
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### 1. Install Python 3.13+
 Download from the Microsoft Store or python.org.
@@ -46,7 +46,7 @@ ollama pull gemma3:4b
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ADHD/
@@ -59,7 +59,7 @@ ADHD/
 
 ---
 
-## 🚀 Running the Application
+## Running the Application
 
 Start the ADHD Assistant with:
 
@@ -79,7 +79,7 @@ All data is saved automatically into `data.json`.
 
 ---
 
-## 🤖 AI Summary (Local Ollama)
+## AI Summary (Local Ollama)
 
 To use the AI Summary feature:
 
@@ -93,7 +93,7 @@ To use the AI Summary feature:
 
 ---
 
-## 🧪 Running Automated Tests
+## Running Automated Tests
 
 The automated tests run **internally** (no mouse automation) using pytest.
 
@@ -117,7 +117,7 @@ Tests include:
 
 ---
 
-## 🔄 Resetting the App
+## Resetting the App
 
 To reset all data:
 
@@ -127,7 +127,7 @@ To reset all data:
 
 ---
 
-## 🛠️ Troubleshooting
+## Troubleshooting
 
 ### Pytest not recognized
 Use the full path:
@@ -152,12 +152,12 @@ Delete `data.json` and restart.
 
 ---
 
-## 📄 License
+## License
 This project is for educational and personal use.
 
 ---
 
-## 🙌 Author
+## Author
 Created by Jason.
 
 "# ADHD-Task-Manager" 
